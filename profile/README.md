@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://giong.run">giong.run</a> ·
-  <a href="https://github.com/thekivashyn/Giong">Repository</a> ·
+  <a href="https://github.com/giong-run/Giong">Repository</a> ·
   <a href="https://docs.rs/giong">Docs</a>
 </p>
 
@@ -27,6 +27,6 @@ load arrives.
   `unsafe` block.
 
 giong needs Linux 6.0 or newer. Benchmarks, with the method and the cases where it does
-not win, are in the [repository README](https://github.com/thekivashyn/Giong#benchmarks).
+not win, are in the [repository README](https://github.com/giong-run/Giong#benchmarks).
 
 Licensed under MIT OR Apache-2.0. Issues and pull requests are welcome.

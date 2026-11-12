@@ -8,7 +8,7 @@ choose **Report a vulnerability**. For giong that is
 <https://github.com/giong-run/Giong/security/advisories/new>.
 
 Include the kernel version (`uname -r`), the giong version or commit, and the smallest
-program that shows the problem. You will get an answer within a few days, and the fix
+program that shows the problem. The fix
 will be released before the report is made public.
 
 ## Supported versions
